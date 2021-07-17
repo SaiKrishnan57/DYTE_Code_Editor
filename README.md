@@ -44,6 +44,4 @@ Kevin Mathew Thomas
 Btech IT | Vellore Institute of Technology
 18BI0241
 
-{% raw %}
 <button onclick="window.open('/docs/resume.pdf')">Click Me to download Resume</button>
-{% endraw %}

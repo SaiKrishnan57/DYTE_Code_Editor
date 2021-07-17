@@ -41,7 +41,7 @@ You will also see any lint errors in the console.
 ![alt text](https://github.com/KevinMathewTh/Code_Editor_React_App/blob/master/docs/kevin_mathew_thomas.jpg)
 
 Kevin Mathew Thomas
-Btech IT | Vellore Institute of Technology
-18BI0241
+Btech IT | Vellore Institute of Technology |
+18BIT0241
 
-<button onclick="window.open('/docs/resume.pdf')">Click Me to download Resume</button>
+<a href="/docs/resume.pdf" download>Click me to Download my resume</a>

@@ -20,13 +20,13 @@ There are 3 sections, namely:
 Clicking on a file from the “file explorer” should display the corresponding content on the code editor for editing.
 The “live view” section must display the rendered website that was created by the user. When a change is made to any of the index.html, index.css, or index.js files, the “live view” section should hot-reload, and display the new output.
 
-## Available Scripts
+## Installation Process
 
-In the project directory, you can run:
+Open a directory where you want to clone this repository and run the below command to clone the repository.
 
 ### `git clone https://github.com/KevinMathewTh/Code_Editor_React_App.git`
 
-Open a directory where you want to clone this repository and run the above command to clone the repository.
+cd into the cloned repository
 
 ### `yarn start`
 

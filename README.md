@@ -3,7 +3,7 @@
 This project is developed using React.js using Pastebin API.
 Installation Instruction given below
 
-![alt text](https://github.com/KevinMathewTh/Code_Editor_React_App/blob/master/preview.jpg?raw=true)
+![alt text](https://github.com/KevinMathewTh/Code_Editor_React_App/blob/master/docs/preview.JPG?raw=true)
 
 # Problem Statement
 

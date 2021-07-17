@@ -1,4 +1,4 @@
-# CODE EDITOR REACT APPLICATION
+# Code Editor React Application
 
 This project is developed using React.js using Pastebin API.
 Installation Instruction given below

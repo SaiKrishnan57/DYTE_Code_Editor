@@ -28,6 +28,14 @@ Open a directory where you want to clone this repository and run the below comma
 
 cd into the cloned repository
 
+### `cd Code_Editor_React_App`
+
+Install Dependencies
+
+### `npm install` or `yarn`
+
+Start Development Server
+
 ### `yarn start`
 
 Runs the app in the development mode.\

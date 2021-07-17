@@ -38,10 +38,12 @@ You will also see any lint errors in the console.
 
 ## Contributors
 
-![alt text](https://github.com/KevinMathewTh/Code_Editor_React_App/blob/master/docs/kevin_mathew_thomas.JPG?raw=true)
+![alt text](https://github.com/KevinMathewTh/Code_Editor_React_App/blob/master/docs/kevin_mathew_thomas.jpg)
 
 Kevin Mathew Thomas
 Btech IT | Vellore Institute of Technology
 18BI0241
 
-[a link](https://github.com/user/repo/blob/master/docs/resume.pdf)
+{% raw %}
+<button onclick="window.open('/docs/resume.pdf')">Click Me to download Resume</button>
+{% endraw %}

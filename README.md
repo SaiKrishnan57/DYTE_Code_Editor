@@ -35,3 +35,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+## Contributors
+
+![alt text](https://github.com/KevinMathewTh/Code_Editor_React_App/blob/master/docs/kevin_mathew_thomas.JPG?raw=true)
+
+Kevin Mathew Thomas
+Btech IT | Vellore Institute of Technology
+18BI0241
+
+[a link](https://github.com/user/repo/blob/master/docs/resume.pdf)
